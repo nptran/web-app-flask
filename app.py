@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():  # put application's code here
-    return 'Hello World with Jenkins and Github webhook 2!'
+    return 'Hello World with Jenkins pipeline!'
 
 
 if __name__ == '__main__':
