@@ -7,4 +7,5 @@ pipeline {
                 git 'https://github.com/nptran/web-app-flask.git'
             }
         }
+    }
 }
